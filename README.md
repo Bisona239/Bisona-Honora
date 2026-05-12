@@ -1,4 +1,4 @@
-## Bisona Honora 
+## Bisona Honora Portfolio 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -15,22 +15,17 @@
 </p>
 
 ## 🚀 About Me 
-I am a Health Data Scientist and Epidemiology Researcher with a background in medical laboratory sciences, and AI-driven analytics. I enjoy transforming complex, messy datasets into clear stories and actionable insights. I also enjoy writing multi-disciplinary stories which combine AI, data science and global health.
+I am a Health Data Scientist and Epidemiology Researcher with a background in medical laboratory sciences and AI-driven analytics. I enjoy transforming complex, messy datasets into clear stories and actionable insights. I also enjoy writing multidisciplinary stories that combine AI, data science, and global health.
 
 My work focuses on:
-- Infectious disease modeling
+- Infectious disease modelling
 - Epidemiological forecasting using R and Python
 - Health data analytics
 - AI applications in public health
 - Cloud computing with AWS
-- Machine learning and predictive modeling
+- Machine learning and predictive modelling
 
-I am currently exploring:
-- AWS Bedrock + Claude AI applications
-- AI-powered research automation
-- Forecasting systems for public health surveillance
-
-When I'm not working with data, I enjoy [travelling and cooking]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy [travelling and reading]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Bisona239.github.io/)
@@ -39,7 +34,7 @@ When I'm not working with data, I enjoy [travelling and cooking]. I love the "ah
 
 - **Project A:** [ Using POSITRON as well as  exploring POSIT products in R.]
 - **Project B:** [AWS Bedrock + Claude AI]
-- **Content Creation:** [Writing stories which combine, AI, global health and biomedical science on my blog]
+- **Content Creation:** [Writing stories which combine AI, global health and biomedical science on my blog]
 
 ## 🛠️ Technical Skillset
 
