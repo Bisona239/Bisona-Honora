@@ -17,10 +17,10 @@
 ## 🚀 About Me 
 I am a Health Data Scientist and Epidemiology Researcher with a background in medical laboratory sciences and AI-driven analytics. I enjoy transforming complex, messy datasets into clear stories and actionable insights. I also enjoy writing multidisciplinary stories that combine AI, data science, and global health.
 
-My work focuses on:
+My work explores:
+- Data analytics
 - Infectious disease modelling
 - Epidemiological forecasting using R and Python
-- Health data analytics
 - AI applications in public health
 - Cloud computing with AWS
 - Machine learning and predictive modelling
