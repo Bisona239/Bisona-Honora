@@ -33,7 +33,7 @@ When I'm not working with data, I enjoy [travelling and reading]. I love the "ah
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [ Using POSITRON as well as  exploring POSIT products in R.]
-- **Project B:** [AWS Bedrock + Claude AI]
+- **Project B:** [Automating health science models with AI ]
 - **Content Creation:** [Writing stories which combine AI, global health and biomedical science on my blog]
 
 ## 🛠️ Technical Skillset
