@@ -38,7 +38,7 @@ When I'm not working with data, I enjoy [travelling and reading]. I love the "ah
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<!-- This section uses Shields.io badges. You can customise them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
